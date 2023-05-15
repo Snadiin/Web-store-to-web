@@ -1,0 +1,20 @@
+.what-we-offer{
+    background-color: #758e8f30;
+    padding-block: 70px;
+    padding-inline: 20px;
+}
+.what-we-offer-title{
+    text-align: center;
+    font-size: xx-large;
+    font-family: initial;
+    padding-block: 0px 15px;
+}
+.what-we-offer-after-title{
+    margin: 0 auto;
+    width: 70px;
+}
+.what-we-offer-carusel{
+    padding: 30px 10px;
+}
+.what-we-offer-page-img{
+}

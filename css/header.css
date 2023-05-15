@@ -17,8 +17,35 @@
 .header-menu-icon {
     display: inline-block;
     cursor: pointer;
+    margin: 30px;
 }
 
+.header-logo-image{
+    background-image: url(/img/girl-in-black-dress.png);
+    background-position: center;
+    height: 430px;
+    background-size: cover;
+    padding-inline: 20px;
+}
+.header-logo-image-title{
+    padding-top: 100px;
+    color: white;
+    font-family: initial;
+    font-size: 45px;
+}
+.header-logo-image-text{
+    font-family: inherit;
+    color: white;
+    padding-block: 50px;
+    font-size: inherit;
+}
+.header-logo-image-button{
+    border: 2px solid white;
+    padding: 15px 30px;
+    color: #fff;
+    text-decoration: none;
+    font-size: small;
+}
 .header-logo-menu-item {
     display: none;
     position: absolute;
@@ -86,4 +113,3 @@
     display: block;
 }
 
-@media (min-width : 768px) {}

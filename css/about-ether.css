@@ -1,0 +1,42 @@
+.about-ether{
+    padding-inline: 20px;
+    margin-block: 70px;
+}
+.about-ether-img{
+    height: 150px;
+    object-fit: cover;
+}
+.about-ether-title{
+    font-size: xx-large;
+    font-family: serif;
+    padding-block: 65px 15px;
+    display: flex;
+    justify-content: center;
+}
+.about-ether-line-after-title{
+    margin: 0 auto;
+    width: 70px;
+}
+.about-ether-text-famous{
+    color: #7e8593d4;
+    text-align: center;
+    padding-block: 20px;
+}
+.about-ether-text-dreams{
+    color: #7e8593d4;
+    text-align: center;
+    padding-block: 20px;
+}
+.about-ether-about-us{
+    color: black;
+    font-size: unset;
+    text-decoration: auto;
+    display: flex;
+    justify-content: center;
+    padding-block: 25px 15px;
+}
+.about-ether-line-after-a{
+    margin: 0 auto;
+    width: 10px;
+    border-color: black;
+}
